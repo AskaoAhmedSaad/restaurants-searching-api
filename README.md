@@ -12,6 +12,8 @@
 
 ``` php yii mongodb-migrate```
 
+``` yes```
+
 ```exit```
 
 ###### apply 2dsphere index on location ''' have issue with appliying it from yii migration '''
